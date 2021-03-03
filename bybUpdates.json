@@ -13,6 +13,6 @@
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
-    },
+    }
   }
 }
